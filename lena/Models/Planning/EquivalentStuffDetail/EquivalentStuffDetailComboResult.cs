@@ -1,0 +1,9 @@
+﻿using lena.Domains.Enums;
+namespace lena.Models.Planning.EquivalentStuffDetail
+{
+  public class EquivalentStuffDetailComboResult
+  {
+    public int Id { get; set; }
+    public string Name { get; set; }
+  }
+}

@@ -1,0 +1,42 @@
+﻿using lena.Domains.Enums;
+namespace lena.Domains.Enums.SortTypes
+{
+  public enum FullCargoItemSortType
+  {
+    RiskLevelStatus,
+    StuffCode,
+    StuffName,
+    StuffNetWeight,
+    StuffGrossWeight,
+    CargoCode,
+    CargoItemCode,
+    HowToBuyTitle,
+    HowToBuyDetailTitle,
+    ProviderName,
+    ForwarderName,
+    PurchaseOrderDeadline,
+    PurchaseOrderType,
+    PurchaseOrderCode,
+    Qty,
+    ReceiptedQty,
+    RemainedCargoItemQty,
+    QualityControlPassedQty,
+    QualityControlFailedQty,
+    UnitName,
+    CargoItemStatus,
+    CargoItemDateTime,
+    EstimateDateTime,
+    CurrentPurchaseStepDateTime,
+    CurrentPurchaseStepFollowUpDateTime,
+    CurrentPurchaseStepEmployeeFullName,
+    IsArchived,
+    PlanCode,
+    PurchaseOrderPrice,
+    PurchaseOrderCurrencyTitle,
+    LadingDescription,
+    LatestBaseEntityDocumentDateTime,
+    LatestRiskTitle,
+    LatestRiskCreateDateTime,
+    StuffType
+  }
+}

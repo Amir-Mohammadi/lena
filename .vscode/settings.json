@@ -1,0 +1,23 @@
+{
+    "editor.tabSize": 2,
+    "blankLine.keepOneEmptyLine": false,
+    "blankLine.languageIds": [
+        "csharp",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "css",
+        "scss"        
+    ],
+    "cSpell.words": [
+        "ashx",
+        "Brotli",
+        "Clazz",
+        "Hmac",
+        "Invitator",
+        "nvarchar",
+        "zxcvbnmm"
+    ]
+}
